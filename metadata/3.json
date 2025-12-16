@@ -1,0 +1,9 @@
+{
+  "name": "NFT Item #3",
+  "description": "Третий уникальный NFT. Представляет виртуальную недвижимость.",
+  "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9IAAAUaABYiMXb8g==",
+  "attributes": [
+    {"trait_type": "Rarity", "value": "Epic"},
+    {"trait_type": "Color", "value": "Blue"}
+  ]
+}
