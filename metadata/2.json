@@ -1,0 +1,9 @@
+{
+  "name": "NFT Item #2",
+  "description": "Второй уникальный NFT. Представляет цифровой мем.",
+  "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYGBgAAAABQABihAAAA==",
+  "attributes": [
+    {"trait_type": "Rarity", "value": "Rare"},
+    {"trait_type": "Color", "value": "Green"}
+  ]
+}
